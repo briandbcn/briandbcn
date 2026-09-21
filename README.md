@@ -9,4 +9,4 @@ My current professional profile is:
 
 Current data-engineering projects are maintained through:
 
-[Triangle Data Works](https://github.com/triangledataworks)
+[Amy Skye Studios](https://github.com/amyskyestudios)
